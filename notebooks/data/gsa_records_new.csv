@@ -1,2 +1,0 @@
-date,dataset_name,r_runs,n_pop,n_iters,chaotic_constant,repair_solution,execution_time,execution_time_std,wa,wf,mean_accuracy,std_accuracy,mean_gamma,std_gamma,mean_c,std_c,mean_n_features,std_n_features,TP,TP_std,FP,FP_std,TN,TN_std,FN,FN_std
-2024-02-27 13:41:39,Breast Cancer Wisconsin (Diagnostic),10,5,20,False,False,0.5989,0.069,0.8,0.2,98.0,2.2768,51.1222,29.5128,53.372,21.7222,3,1,89.0,3.0,2.0,3.0,49.0,1.0,0.0,1.0
